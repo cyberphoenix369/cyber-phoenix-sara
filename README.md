@@ -10,3 +10,10 @@ Instagram
 -----------
 
 https://instagram.com/cyber_phoenix_?utm_medium=copy_link
+
+Installation
+--------------
+apt-get install tsu -y
+apt-get install imagemagick -y
+apt-get install python -y
+pip3 install Pillow
