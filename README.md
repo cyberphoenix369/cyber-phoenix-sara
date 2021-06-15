@@ -17,3 +17,4 @@ apt-get install tsu -y
 apt-get install imagemagick -y
 apt-get install python -y
 pip3 install Pillow
+git clone https://github.com/cyberphoenix369/cyber-
