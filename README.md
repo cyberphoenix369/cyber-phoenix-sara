@@ -28,7 +28,8 @@ cd cyber phoenix sara
 python3 cyber phoenix.py
 
 
-Coding by Muhammed Bilal
------------------------
+Author : 
+---------
+Bilal
 
-.
+Instagram : https://instagram.com/cyber_phoenix_?utm_medium=copy_link
