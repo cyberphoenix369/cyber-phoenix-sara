@@ -26,3 +26,9 @@ git clone https://github.com/cyberphoenix369/cyber-
 cd cyber phoenix sara
 
 python3 cyber phoenix.py
+
+
+Coding by Muhammed Bilal
+-----------------------
+
+.
