@@ -28,8 +28,8 @@ cd cyber phoenix sara
 python3 cyber phoenix.py
 
 
-Author : 
----------
-Bilal
+Author :  Muhammed Bilal
+------------------------
+
 
 Instagram : https://instagram.com/cyber_phoenix_?utm_medium=copy_link
